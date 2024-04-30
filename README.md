@@ -1,4 +1,4 @@
-# TNSTC-GenAI-AI-Generated-Text-Detection
+# TNSDC-GenAI-AI-Generated-Text-Detection
 
 **Project Overview: Detecting AI-Generated Text Using KerasNLP**
 
