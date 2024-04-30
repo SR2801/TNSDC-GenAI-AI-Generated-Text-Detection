@@ -1,4 +1,4 @@
-# TNSTC-GenAI-Fake-Text-Detection
+# TNSTC-GenAI-AI-Generated-Text-Detection
 
 **Project Overview: Detecting AI-Generated Text Using KerasNLP**
 
